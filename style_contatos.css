@@ -1,0 +1,78 @@
+form{
+width: 850px;
+margin: auto 20rem auto 25rem;
+
+}
+
+
+
+legend{
+color: #836FFF;
+font: 1rem verdana ;
+font-weight: bold;
+
+}
+
+
+
+p{
+color: black;
+font: 1rem verdana ;
+font-weight: bold;
+
+}
+
+
+
+fieldset{
+    border: 2px solid #504880ef;;
+    margin: 20px;
+}
+
+fieldset Gênero{
+    width: 250px;
+    font: 1rem verdana;
+}
+
+.Gênero{
+    width: 250px;
+
+}
+
+
+
+input.btn{
+    background-color: black;
+    color: #836FFF;
+    padding: 7px;
+    margin: 5px;
+    font: 1.3rem verdana;
+    border: none;
+
+}
+
+
+input.btn:hover{
+    background-color: aliceblue;
+    color:#836FFF
+}
+
+fieldset#CLIENTES{
+    background: url(imagem/swe.png) no-repeat 95% 95%;
+    background-size: 40%;
+   
+}
+
+
+fieldset#Endereco{
+    background: url(imagem/plk-removebg-preview.png) no-repeat 95% 95%;
+
+}
+
+
+fieldset#Mensagem{
+    background: url(imagem/dht-removebg-preview.png) no-repeat 95% 95%;
+
+}
+
+
